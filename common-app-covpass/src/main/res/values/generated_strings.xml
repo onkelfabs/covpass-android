@@ -4,14 +4,14 @@
 <!-- Language: en -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="UnusedResources">
 	<!-- SECTION: app -->
-	<string name="cert_app_name">CovPass</string>
+	<string name="cert_app_name">Scamdemic Impfung</string>
 
 	<!-- SECTION: common -->
 	<string name="ok">OK</string>
 
 	<!-- SECTION: onboarding -->
-	<string name="start_onboarding_title">Welcome to the CovPass app</string>
-	<string name="start_onboarding_message">Show your EU Digital COVID Certificates from your smartphone with ease.</string>
+	<string name="start_onboarding_title">Welcome to the Scamdemic app</string>
+	<string name="start_onboarding_message">The vaccine kills people. I hope you know that.</string>
 	<string name="start_onboarding_secure_title">Absolute security for your data</string>
 	<string name="start_onboarding_secure_message">Your data is stored in one place: locally on your smartphone. You decide when you show your data and who you show it to.</string>
 	<string name="start_onboarding_button_title">Get started</string>

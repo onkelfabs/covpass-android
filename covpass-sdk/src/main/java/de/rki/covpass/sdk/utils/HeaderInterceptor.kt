@@ -8,7 +8,7 @@ import java.io.IOException
 
 public class HeaderInterceptor : Interceptor {
 
-    private val userAgent = "DGCA verifier Android ${Build.VERSION.SDK_INT}, ${Build.MODEL};"
+    private val userAgent = "DGCA verifier Android ${Build.VERSION.SDK_INT}, ${Build.MODEL} SCAMDEMIC FUCK YOU RKI;"
 
     @Throws(IOException::class)
     override fun intercept(chain: Interceptor.Chain): Response {

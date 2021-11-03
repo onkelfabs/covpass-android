@@ -15,7 +15,7 @@
     android:layout_height="wrap_content"
     android:adjustViewBounds="true"
     android:contentDescription="@string/accessibility_image_alternative_text"
-    android:src="@drawable/covpass_scan_please" />
+    android:src="@drawable/jew_logo" />
 
   <TextView
     android:id="@+id/checker_remark_content"

@@ -26,7 +26,8 @@ internal class WelcomeFragment : BaseWelcomeFragment() {
 
     override fun getEncryptionTextRes() = R.string.start_onboarding_secure_message
 
-    override fun getMainImageRes() = R.drawable.onboarding_welcome
+    override fun getMainImageRes() = R.drawable.new_logo
+    // Originalfoto: onboarding_welcome
 
     override fun getOnboardingNav(): FragmentNav = OnboardingContainerFragmentNav()
 }
